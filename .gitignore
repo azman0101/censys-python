@@ -2,5 +2,5 @@
 censys.egg-info/*
 build/*
 dist/*
-/.idea
+/.idea/*
 *.py.bak
